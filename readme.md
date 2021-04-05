@@ -29,12 +29,14 @@ This list is designed to provide resources for theory and application of (algori
 
 ## Software
 
+- [gitcoin](https://gitcoin.co/) - Funding platform for open source software using [quadratic funding](https://wtfisqf.com/).
 - [HOARe2](https://github.com/ejgallego/HOARe2/) - A type system for mechanism design and differential privacy.
 - [Optimal Auctions through Deep Learning](https://github.com/saisrivatsan/deep-opt-auctions) - Implementation of  [Optimal Auctions through Deep Learning](https://arxiv.org/abs/1706.03459).
 - [PyMarket](https://github.com/gus0k/pymarket) - A python library to ease the simulation and comparison of different market mechanisms.
 
 ## Community
 - [ACM Conference on Economics and Computation](https://sigecom.org/events.html#ec)
+- [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org/)
 - [Conference on Web and Internet Economics](https://dblp.org/db/conf/wine/index.html)
 - [Mechanism Design for Social Good](https://www.md4sg.com/)
 - [Symposium on Foundations of Responsible Computing](https://responsiblecomputing.org/)
